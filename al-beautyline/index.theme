@@ -5,7 +5,7 @@ Inherits=al-candy-icons
 Hidden=true
 
 # Directory list
-Directories=actions/scalable,apps/scalable,apps/22,devices/scalable,mimetypes/scalable,panel/16,places/16,places/48
+Directories=actions/scalable,apps/scalable,apps/16,devices/scalable,mimetypes/scalable,panel/16,places/16,places/48
 Example=folder
 DisplayDepth=32
 
@@ -41,8 +41,8 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[apps/22]
-Size=22
+[apps/16]
+Size=16
 Context=Applications
 Type=Fixed
 

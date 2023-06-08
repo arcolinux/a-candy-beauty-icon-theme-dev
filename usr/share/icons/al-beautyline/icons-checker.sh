@@ -16,5 +16,3 @@ find ./ -type l -exec file {} \; |grep 'broken symbolic'
 echo "finding blanco spaces"
 ls -R | grep ' '
 echo "End of script"
-
-sleep 5

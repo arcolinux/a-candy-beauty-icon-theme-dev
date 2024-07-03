@@ -107,7 +107,7 @@ If you encounter any issues or have suggestions, please open an issue on the [Gi
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the LICENSE file in the different folders for more details.
 
 ## Acknowledgements
 

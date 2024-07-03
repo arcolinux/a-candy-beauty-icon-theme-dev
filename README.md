@@ -47,6 +47,7 @@ For users who prefer manual installation, follow these steps:
 
 1. **Download the latest release**
 2. **Extract the downloaded archive** to your icon directory:
+    When on ArcoLinux...
     ```bash
     ex a-candy-beauty-icon-theme.tar.gz
     ```
@@ -80,6 +81,10 @@ After installation, you can activate the A Candy Beauty Icon Theme through your 
 2. Go to **Appearance** > **Icons**.
 3. Choose **A Candy Beauty Icon Theme** from the list.
 
+### TWMs
+
+Use lxappearance to change your icon theme.
+
 ## Contributing
 
 We welcome contributions from the community! Whether you want to suggest new icons, report bugs, or improve existing ones, your input is valuable.
@@ -107,7 +112,7 @@ If you encounter any issues or have suggestions, please open an issue on the [Gi
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file in the different folders for more details.
+This project is licensed under the License file of the different projects it is based on. See the LICENSE file in the different folders for more details.
 
 ## Acknowledgements
 

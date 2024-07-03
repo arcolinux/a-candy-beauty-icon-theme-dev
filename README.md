@@ -1,6 +1,8 @@
 # A Candy Beauty Icon Theme
 
-![Maintenance](https://github.com/arcolinux/a-candy-beauty-icon-theme-dev/blob/master/sample/filemanager.png)
+![filemanager](https://github.com/arcolinux/a-candy-beauty-icon-theme-dev/blob/master/sample/filemanager.png)
+
+![menu](https://github.com/arcolinux/a-candy-beauty-icon-theme-dev/blob/master/sample/menu.png)
 
 ## Table of Contents
 

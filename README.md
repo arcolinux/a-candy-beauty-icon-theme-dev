@@ -20,6 +20,8 @@
 ## Overview
 
 A Candy Beauty Icon Theme is a vibrant and visually appealing icon theme designed to enhance the aesthetic experience of your desktop environment. This theme is meticulously crafted to ensure consistency and beauty across all icons, making your system look cohesive and elegant.
+We have created it for ArcoLinux but can be used on other distributions.
+All desktops and all apps on ArcoLinux have been covered.
 
 ## Features
 
@@ -32,19 +34,11 @@ A Candy Beauty Icon Theme is a vibrant and visually appealing icon theme designe
 
 ### Automatic Installation
 
-For users who prefer an automated installation process, you can use the provided script:
+For users who prefer an automated installation process, you can use pacman:
 
-1. **Clone the repository:**
+1. **Use pacman:**
     ```bash
-    git clone https://github.com/arcolinux/a-candy-beauty-icon-theme.git
-    ```
-2. **Navigate to the cloned directory:**
-    ```bash
-    cd a-candy-beauty-icon-theme
-    ```
-3. **Run the installation script:**
-    ```bash
-    ./install.sh
+    sudo pacman -S a-candy-beauty-icon-theme-git
     ```
 
 ### Manual Installation

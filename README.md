@@ -1,10 +1,6 @@
-Sure, here's a detailed and comprehensive README file for the GitHub repository "A Candy Beauty Icon Theme."
-
----
-
 # A Candy Beauty Icon Theme
 
-![Logo](path_to_logo_image_if_any)
+![Maintenance](https://github.com/arcolinux/a-candy-beauty-icon-theme-dev/blob/master/sample/filemanager.png)
 
 ## Table of Contents
 

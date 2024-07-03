@@ -45,12 +45,18 @@ For users who prefer an automated installation process, you can use pacman:
 
 For users who prefer manual installation, follow these steps:
 
-1. **Download the latest release** from the [releases page](https://github.com/arcolinux/a-candy-beauty-icon-theme/releases).
+1. **Download the latest release**
 2. **Extract the downloaded archive** to your icon directory:
     ```bash
-    tar -xvf a-candy-beauty-icon-theme.tar.gz -C ~/.icons
+    ex a-candy-beauty-icon-theme.tar.gz
     ```
-3. **Set the icon theme** using your desktop environment’s settings manager.
+    or
+    ```bash
+    unzip a-candy-beauty-icon-theme.tar.gz
+    ```
+    Move the 3 folders of /usr/share/icons to your ~/.icons folder (create the .icons folder if it does not exist).
+    When on Plasma move the 3 folders to ~/.local/share/icons (create the icons folder if it does not exist )
+4. **Set the icon theme** using your desktop environment’s settings manager.
 
 ## Usage
 
@@ -107,11 +113,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Special thanks to the ArcoLinux community for their support and contributions.
 - Inspired by various open-source icon themes available in the community.
-
-## Contact
-
-For any questions or support, feel free to open an issue on the [GitHub repository](https://github.com/arcolinux/a-candy-beauty-icon-theme/issues) or contact us through our [support channels](https://arcolinux.com/support).
-
----
-
-Feel free to replace placeholder text such as `path_to_logo_image_if_any` and `support channels` with the actual URLs or relevant information.
+- Beautyline - https://www.opendesktop.org/p/1425426/
+- Candy - https://www.pling.com/p/1305251/
+- Garuda Beautyline - https://gitlab.com/garuda-linux/themes-and-settings/artwork/beautyline
